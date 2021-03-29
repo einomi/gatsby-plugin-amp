@@ -11,15 +11,14 @@
   },
   "author": "Jonathan Faircloth",
   "license": "MIT",
-  "homepage": "https://github.com/jafaircl/gatsby-plugin-amp#readme",
-  "repository": "https://github.com/jafaircl/gatsby-plugin-amp",
+  "homepage": "https://github.com/einomi/gatsby-plugin-amp#readme",
+  "repository": "https://github.com/einomi/gatsby-plugin-amp",
   "bugs": {
-    "url": "https://github.com/jafaircl/gatsby-plugin-amp/issues"
+    "url": "https://github.com/einomi/gatsby-plugin-amp/issues"
   },
   "dependencies": {
     "jsdom": "^13.0.0",
     "lodash.flattendeep": "^4.4.0",
-    "minimatch": "^3.0.4",
     "prettier": "^2.1.2",
     "react": "^16.6.1"
   },
